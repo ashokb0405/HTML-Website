@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="style.cssf.css">
+<style>
+
+ </style>
+</head>
+
+
+
+<body>
+
+<div class="logo">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1PEY59D3i4MPAKErYg_KlnMCOA6StLBcbsTpBbBbc4w&s" width="100px"/>
+ </div>
+<div class="topnav">
+  <a class="active" href="#about">Home</a>
+  <a href="#contact">News</a>
+  <div class = "topnav-right">
+  <a href="#news">Contact</a>
+  <a href="#home">About</a>
+    </div>
+</div>
+
+<div>
+  <h3 style="color:grey">ASHOK</h3>
+  <marquee style="font-family:Book Antiqua; color: #FFFFFF" bgcolor = "#87CEEB" scrollamount="20" loop="1" height="50px" font-size:4px><h3>Hai !!!       THIS IS MY WEBSITE</h3> </marquee>
+
+  
+</div>
+<div class = "split left">
+<img src="https://img.freepik.com/free-photo/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture_409827-254.jpg?w=2000" width="620px",height="600px">
+</div>
+<div class = "split right">
+    
+    <p><h1>HEALTH CARE</h1></p>
+        <p style="text-align: left;">Health care or healthcare is the <span style="color:blue">improvement</span>  of health via the prevention, diagnosis, treatment,<span style="color:blue">influenced</span>  amelioration or cure of disease, illness, injury, and other physical and mental impairments in people. Health care is delivered by health professionals and allied health fields.<span style="color:blue">health outcomes</span>  Medicine, dentistry, pharmacy,midwifery, nursing, optometry, audiology, psychology, occupational therapy, physical therapy, athletic training, and other health professions all constitute health care. <span style="color:blue">transportation</span> It includes work done in providing primary care, secondary care, and tertiary care, as well as in public health.</p>
+
+    </div>
+ <div>
+<p style="text-align: left;" font-size:20px; >Access to health care may vary across countries, communities, and individuals, <span style="color:blue">communities</span> influenced by social and economic conditions as well as health policies. Providing health care services means "the timely use of <span style="color:blue">delivered</span> personal health services to achieve the best possible health outcomes".[3] Factors to consider in terms of health care access include financial limitations <span style="color:blue"> psychology</span>(such as insurance coverage), geographical and logistical barriers (such as additional transportation costs and the possibility to take<span style="color:blue">providing</span> paid time off work to use such services), sociocultural expectations, and personal limitations .all constitute health care. It includes work done in providing primary care, secondary care, and tertiary care, as well as in public health.</p>
+</div>
+
+<div class="row">
+  <div class="column">
+  <img  src="https://thumbs.dreamstime.com/b/female-doctor-consoling-senior-woman-wearing-face-mask-home-visit-elderly-talking-holding-hands-201515079.jpg" width="280px",height="500px" hspace="10" vspace="15">
+ 
+  </div>
+  <div class="column">
+  <img src="https://thumbs.dreamstime.com/b/indian-beautiful-female-doctor-18398918.jpg" width="280px",height="500px" hspace="10" vspace="15">
+  
+  </div>
+  <div class="column">
+  <img src="https://thumbs.dreamstime.com/b/doctor-senior-man-patient-telehealth-doctor-senior-men-patient-medical-consultation-telehealth-telemedicine-remote-health-170233217.jpg" width="280px",height="500px" hspace="10" vspace="15" margin="5px">
+ 
+  </div>
+  <div class="column">
+  <img src="https://thumbs.dreamstime.com/b/doctor-holding-digital-tablet-meeting-room-portrait-beautiful-mature-woman-looking-camera-confident-female-using-164999229.jpg" width="280px",height="500px" hspace="10" vspace="15" margin-right="5px">
+  </div>
+</div>
+
+<div class = "innerblock">
+  <img align="right" src="https://media.istockphoto.com/id/1094626640/photo/empty-bed-in-a-hospital-ward.jpg?s=612x612&w=0&k=20&c=xERQeYx7Vifi37DG50ykcVNA2sVb6Bqbk8IeRopXY6M=" width="470px" height="320px">
+  <p style="text-align:center"><h1>HOSPITALY</h1></p>
+<p style ="padding-right: 20px">Health care or healthcare is the <span style="color:blue">improvement</span>  of health via the prevention, diagnosis, treatment,<span style="color:blue">influenced</span>  amelioration or cure of disease, illness, injury, and other physical and mental impairments in people. Health care is delivered by health professionals and allied health fields.<span style="color:blue">health outcomes</span>  Medicine, dentistry, pharmacy,midwifery, nursing, optometry, audiology, psychology, occupational therapy, physical therapy, athletic training, and other health professions all constitute health care. <span style="color:blue">transportation</span> It includes work done in providing primary care, secondary care, and tertiary care, as well as in public health.</p>
+
+<p>Access to health care may vary across countries, communities, and individuals, <span style="color:blue">communities</span> influenced by social and economic conditions as well as health policies. Providing health care services means "the timely use of <span style="color:blue">delivered</span> personal health services to achieve the best possible health outcomes".[3] Factors to consider in terms of health care access include financial limitations <span style="color:blue"> psychology</span>(such as insurance coverage), geographical and logistical barriers (such as additional transportation costs and the possibility to take<span style="color:blue">providing</span> paid time off work to use such services), sociocultural expectations, and personal limitations .all constitute health care. It includes work done in providing primary care, secondary care, and tertiary care, as well as in public health.</p>
+</div>
+
+<div class="body1">  
+  <h2>Visit our recent websites</h2>
+  <p> For better research</P>
+    <div class="body2">
+    <li><a style= "padding:10px 10px 10px 10px;"  href=""> Visit yelurihospitals.com</a></li> 
+    </div>
+    <li><a style="padding:0px 20px 30px 30px;" href="">visit globaldiagnosticsindia.com</a></li>
+   
+</div>
+
+<div>
+
+</div>
+
+</div>
+</body>
+</html>
